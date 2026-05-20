@@ -6,6 +6,7 @@
 **Live Power BI Dashboard (ROI Simulator): [ [LINK POWER BI](https://app.powerbi.com/view?r=eyJrIjoiZjY3MGFiYzQtZGRlMi00YTRlLWIwMzYtYWNkZmYzMTJiYzA2IiwidCI6IjdlNzU4MmI2LWUyYWEtNDU1Yy04MzUyLWJlOWZkNGE0MTFkZCIsImMiOjh9)]**
 
 https://app.powerbi.com/view?r=eyJrIjoiZjY3MGFiYzQtZGRlMi00YTRlLWIwMzYtYWNkZmYzMTJiYzA2IiwidCI6IjdlNzU4MmI2LWUyYWEtNDU1Yy04MzUyLWJlOWZkNGE0MTFkZCIsImMiOjh9
+<img width="904" height="527" alt="Zrzut ekranu 2026-05-20 121634" src="https://github.com/user-attachments/assets/72043f3b-5d55-4b04-b3a8-f5e2b0c616b8" />
 
 ---
 
@@ -95,6 +96,8 @@ High rankings but unnaturally low CTR. AI Overviews provide direct answers, elim
 INTERACTIVE ROI SIMULATOR (What-If Analysis in Power BI)
 
 https://app.powerbi.com/view?r=eyJrIjoiZjY3MGFiYzQtZGRlMi00YTRlLWIwMzYtYWNkZmYzMTJiYzA2IiwidCI6IjdlNzU4MmI2LWUyYWEtNDU1Yy04MzUyLWJlOWZkNGE0MTFkZCIsImMiOjh9
+
+![Uploading Zrzut ekranu 2026-05-20 093823.png…]()
 
 **The Heart of the Project** is a dynamic financial model built in Power BI — a decision-support tool designed for C-level executives.
 
